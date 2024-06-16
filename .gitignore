@@ -1,0 +1,6 @@
+.vscode
+
+obj
+Makefile
+*.make
+business_suits
